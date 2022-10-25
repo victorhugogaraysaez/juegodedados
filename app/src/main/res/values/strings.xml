@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">juego de dados</string>
     <string name="todo">TODO</string>
-    <string name="lanzar">lanzar</string>
+    <string name="lanzar">haga su tirada de dados</string>
 </resources>
